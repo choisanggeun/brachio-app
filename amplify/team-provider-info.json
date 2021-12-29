@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-brachioapp-staging-51329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::282343268836:role/amplify-brachioapp-staging-51329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::282343268836:role/amplify-brachioapp-staging-51329-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-brachioapp-staging-51329-deployment",
+      "UnauthRoleName": "amplify-brachioapp-staging-51329-unauthRole",
+      "StackName": "amplify-brachioapp-staging-51329",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:282343268836:stack/amplify-brachioapp-staging-51329/0fb473c0-6866-11ec-ac19-06cb6a7d0da2",
+      "AmplifyAppId": "djtmot159pox7"
+    },
+    "categories": {
+      "auth": {
+        "brachioapp808ae191": {}
+      }
+    }
+  }
+}
